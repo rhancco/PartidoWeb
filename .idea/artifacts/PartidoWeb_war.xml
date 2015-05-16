@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="PartidoWeb:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="PartidoWeb.war">
+      <element id="artifact" artifact-name="PartidoWeb:war exploded" />
+    </root>
+  </artifact>
+</component>
